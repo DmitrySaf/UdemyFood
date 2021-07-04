@@ -239,4 +239,5 @@ window.addEventListener('DOMContentLoaded', () => {
         });
     }
     let srm = 5;
+    let test = 'test';
 });
